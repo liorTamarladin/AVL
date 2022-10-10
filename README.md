@@ -1,1 +1,1 @@
- * An implementation of aמ AVL Tree with distinct integer keys and info.
+ * An implementation of an AVL Tree with distinct integer keys and info.
